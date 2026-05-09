@@ -8,6 +8,11 @@ Public Agent Skills for coding agents.
 
 - `html-artifacts`: Create self-contained HTML artifacts when agent output is easier to review visually or interactively than Markdown.
 
+## Examples
+
+- [Before/after Codex demo](examples/html-artifacts-codex-demo.html)
+- [Situations gallery](examples/html-artifacts-situations-gallery.html)
+
 ## Install
 
 Install the HTML artifacts skill:
