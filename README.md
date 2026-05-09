@@ -1,5 +1,7 @@
 # Agent Skills
 
+[![skills.sh](https://skills.sh/b/zygisS22/agent-skills)](https://skills.sh/zygisS22/agent-skills)
+
 Public Agent Skills for coding agents.
 
 ## Skills
